@@ -1,7 +1,3 @@
-/**
- * 
- */
-
 
 const { WebElement, Actions } = require("selenium-webdriver");
 const {By,Key,Builder} = require("selenium-webdriver");
